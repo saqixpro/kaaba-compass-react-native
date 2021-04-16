@@ -1,0 +1,34 @@
+{
+    "favouriteMasjid": [
+        {
+            "masjidID": "1", 
+            "name": "Masjid Putra", 
+            "lat": "2.935900", 
+            "long": "101.689378"
+        },
+        {
+            "masjidID": "2", 
+            "name": "Masjid Negara", 
+            "lat": "3.141812", 
+            "long": "101.691695" 
+        },
+        {
+            "masjidID": "3", 
+            "name": "Masjid Nasiruddin Shah (Kerajaan)", 
+            "lat": "5.79486", 
+            "long": "102.56316" 
+        },
+        {
+            "masjidID": "4", 
+            "name": "Masjid Sayyidina Ali, Masjid Daerah Melaka Tengah", 
+            "lat": "2.232235", 
+            "long": "102.292929" 
+        },
+        {
+            "masjidID": "5", 
+            "name": "Masjid Tuanku Mizan Zainal Abidin", 
+            "lat": "2.91934", 
+            "long": "101.680875" 
+        }
+    ]
+}
